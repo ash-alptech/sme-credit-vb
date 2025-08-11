@@ -1,0 +1,17 @@
+pytest -q
+
+
+# show coverage
+pytest --cov=sme_credit --cov-report=term-missing
+
+# run a single file
+pytest tests/test_core.py -q
+
+# run a single test function
+pytest tests/test_core.py::test_rating_roundtrip -q
+
+# filter by keyword
+pytest -k "quant or core" -q
+
+# verbose + stop on first failure
+pytest -v -x

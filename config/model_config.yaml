@@ -1,0 +1,39 @@
+
+weights:
+  W_X1: 0.8
+  W_X2: 0.5
+  W_X3: 3.5
+  W_X4: 0.3
+  W_X5: 2.0
+
+overlays:
+  ALT_WT: 2.0
+  CF_FCF: -1.5
+  CF_IC: 0.8
+  CF_RQ: 1.2
+  AGE_PEN_LT3: -1.0
+  AGE_PEN_3_5: -0.5
+  QUAL_WT: 1.0
+
+penalties:
+  SCALE_PEN: -1.0
+  LOW_LEV_PEN: -0.7
+
+limits:
+  MV_CAP: 10.0
+
+toggles:
+  CAP_COUNTRY_RATING: true
+  USE_BAYES_PRIOR: true
+
+bayes:
+  BAYES_XLSX: "input_data/bayes_3.xlsx"
+  BAYES_SHEET: "Priors"
+  BAYES_ALPHA_BY_COUNTRY:
+    INDIA: 0.55
+    GCC: 0.50
+    MALAYSIA: 0.25
+    EUROPE: 0.25
+    UAE: 0.50
+    SAUDI ARABIA: 0.50
+  DEFAULT_BAYES_ALPHA: 0.04

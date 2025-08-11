@@ -1,0 +1,15 @@
+
+sectors:
+  Communication Services:  {slope: -0.00018948, int: 0.002530757}
+  Consumer Discretionary:  {slope: -0.001091007, int: 0.000839686}
+  Consumer Staples:        {slope: -0.000268, int: 0.0020259}
+  Energy:                  {slope: -0.000728511, int: 0.003263767}
+  Banks:                   {slope: -0.00059122, int: 0.00156193}
+  Healthcare:              {slope: -0.000340709, int: 0.002307631}
+  Industrials:             {slope: -0.0000223, int: 0.00107866}
+  Technology:              {slope: -0.0000677, int: 0.001277924}
+  Materials:               {slope: -0.000728511, int: 0.003263767}
+  Real Estate:             {slope: -0.00113864, int: 0.01054757}
+  NBFIs:                   {slope: -0.000110934, int: 0.001716603}
+  Insurance:               {slope: -0.001242, int: 0.00056076}
+  Utilities:               {slope: -0.000728511, int: 0.003263767}

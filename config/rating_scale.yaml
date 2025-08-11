@@ -1,0 +1,23 @@
+
+ratings:
+  - {label: "AAA",   low: 0.0000, high: 0.0005}
+  - {label: "AA+",   low: 0.0005, high: 0.0010}
+  - {label: "AA",    low: 0.0010, high: 0.0015}
+  - {label: "AA-",   low: 0.0015, high: 0.0020}
+  - {label: "A+",    low: 0.0020, high: 0.0030}
+  - {label: "A",     low: 0.0030, high: 0.0040}
+  - {label: "A-",    low: 0.0040, high: 0.0050}
+  - {label: "BBB+",  low: 0.0050, high: 0.0075}
+  - {label: "BBB",   low: 0.0075, high: 0.0100}
+  - {label: "BBB-",  low: 0.0100, high: 0.0150}
+  - {label: "BB+",   low: 0.0150, high: 0.0200}
+  - {label: "BB",    low: 0.0200, high: 0.0300}
+  - {label: "BB-",   low: 0.0300, high: 0.0400}
+  - {label: "B+",    low: 0.0400, high: 0.0600}
+  - {label: "B",     low: 0.0600, high: 0.0800}
+  - {label: "B-",    low: 0.0800, high: 0.1000}
+  - {label: "CCC+",  low: 0.1000, high: 0.1500}
+  - {label: "CCC",   low: 0.1500, high: 0.2000}
+  - {label: "CCC-",  low: 0.2000, high: 0.2500}
+  - {label: "CC",    low: 0.2500, high: 1.0000}
+  - {label: "D",     low: 1.0000, high: inf}
