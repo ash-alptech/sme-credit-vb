@@ -1,9 +1,0 @@
-COMMAND:
-C:\ALP\sme_credit_model\.venv\Scripts\python.exe C:\ALP\sme_credit_model\run_scoring.py --input C:\ALP\sme_credit_model\input_data\ui_input_1754909199.xlsx --sector-col sector --output-prefix sme_scores --use-utc
-
-STDOUT:
-Scoring complete  C:\ALP\sme_credit_model\output_data\sme_scores_20250811_104641.csv  (rows: 144)
-
-
-STDERR:
-
